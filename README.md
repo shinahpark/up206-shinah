@@ -9,7 +9,7 @@ I will stack resources and assignments that are provided througout the course **
 
 ## Final Project Interests
 
-Since I am interested in transportation policy and planning, I would like to conduct a final project in relation to transportation. I am opened to any general topics that are related with explaining current conditions. Particularly, I am interested in conducting analysis of street or public transportation network. People's travel behavior is also one of my interest but I am not sure if I can combine network analysis and travel behavior into a project in a short time.  
+Since I am interested in transportation policy and planning, I would like to conduct a final project in relation to transportation. I am opened to any general topics that are related with interpreting current conditions in terms of access to opportunities. Particularly, I am interested in conducting analysis of street or public transportation network. People's travel behavior is also one of my interest but I am not sure if I can combine network analysis and travel behavior into a project in a short time.  
 
 ## Related Links
 
