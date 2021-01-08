@@ -7,3 +7,6 @@ Prompt: This week's reading assignment is for you to find an article, blog, jour
 
 paragraph1   
 paragraph2
+
+
+#### Downloaded from: https://journals.sagepub.com/doi/full/10.1177/2399808319882826
