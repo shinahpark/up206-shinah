@@ -13,3 +13,5 @@ This dataset shows the official boundaries of each city unit.|
 | Bikeway | List all new or modified files | sth sth |
 | River | List all new or modified files | sth sth |
 | Pedestrian / Active Transportat Networks | List all new or modified files | sth sth |
+
+![Flowchart](https://drive.google.com/file/d/1ko3qAwThP1kMKbSb_eNkouoT6l6L9pkg/view?usp=sharing) <br/>
