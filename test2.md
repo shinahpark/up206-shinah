@@ -17,3 +17,5 @@ This dataset shows the official boundaries of each city unit.|
 ![Flowchart](https://drive.google.com/file/d/1ko3qAwThP1kMKbSb_eNkouoT6l6L9pkg/view?usp=sharing) <br/>
 
 ![Flowchart](https://drive.google.com/file/d/1433gZ1mq2Nb5e5BXk1VnuIc6vQ1Z0dC_/view?usp=sharing) <br/>
+
+![Image of urban planning with data](https://www.researchgate.net/profile/Jan_Philipp_Exner/publication/280151498/figure/fig1/AS:284646114906136@1444876330890/Smart-Cities-and-related-terms-for-urban-planners-Own-Source.png) <br/> 
