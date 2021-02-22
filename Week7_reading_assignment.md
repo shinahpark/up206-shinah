@@ -1,3 +1,7 @@
 ## Week7 Reading Assignment   
 
-This is a response written after reading Dr. Millard-Ball's _thjklaskdjf_.
+This is a response written after reading Dr. Millard-Ball's article _Parking search caused congestion: Where’s all the fuss?_.   
+
+Parking search is an area of interest that is worth getting attention because not only it is a waste of time and energy to the driver, but also it causes a lot of other serious issues and eventually burdens the society. According to the article, many researchers have been trying to measure the amount of parking search and figure out the searching behavior to help solve the problem. This article mainly describes a new way that the authors devised to accurately quantify the amount of cars cruising after reaching the destination. The authors estimate the amount of cruising by utilizing GPS dataset obtained from three different institutions and present the results of two cities, San Francisco, California and Ann Arbor, Michigan.   
+There are some parts that caught my eyes. The article clearly mentions the advantages and disadvantages of each dataset. I think knowing the limitations of what I got, including the datasets, is also an important part of the research because that can be the starting point of adjusting the research direction to derive meaningful and accurate findings even taking account the limitations. Indentifying the definition of excess parking search (_cruising_) seemed like a tricky part before conducting analysis. Noticing the various definitions of excess parking search in the second section of the article, I thought depending on how the author define something, the research can be unfolded in totally different way. 
+ 
